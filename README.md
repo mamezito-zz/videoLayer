@@ -2,7 +2,7 @@
 Framer video layer using webrtc on high sierra and ios11 and above safari
 
 
-Live samples
+Live sample
 https://framer.cloud/DjFni
 
 Note - works only when uploaded to cloud, currently doesn't work locally
